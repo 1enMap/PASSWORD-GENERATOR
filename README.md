@@ -36,11 +36,11 @@ This project is a scalable and efficient web application that leverages **Next.j
 ### Installation
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/RUPAMLAHA-code/PASSWORD-GENERATOR.git
    ```
 2. **Navigate to the project folder**:
    ```sh
-   cd project-name
+   cd PASSWORD-GENERATOR
    ```
 3. **Install dependencies**:
    ```sh
