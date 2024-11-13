@@ -2,6 +2,7 @@
 
 A modern web application built using **Next.js** (App Router), **React**, **TypeScript**, **Tailwind CSS**, and **PostCSS**.
 
+![Homepage Screenshot](./images/sr1.png)
 ## Project Overview
 This project is a scalable and efficient web application that leverages **Next.js 13+'s App Router** for server-side rendering (SSR), static generation, and routing. **React** is used for building interactive UIs, and **TypeScript** is used for adding type safety, reducing errors, and improving maintainability. **Tailwind CSS** is used for styling, making the process fast and efficient.
 
